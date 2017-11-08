@@ -8,5 +8,4 @@ hold on
 errVSh(2, y0, t0, tf);
 errVSh(3, y0, t0, tf);
 errVSh(4, y0, t0, tf);
-
 errVSh(A, [1;1], t0, tf);
